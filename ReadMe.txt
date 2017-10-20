@@ -1,3 +1,5 @@
+Completed 9Aug2017
+
 MAC:
 
 1. Open Terminal.
